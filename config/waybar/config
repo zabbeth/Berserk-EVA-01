@@ -43,7 +43,7 @@
     "format-wifi": " {bandwidthDownBits}",
     "format-ethernet": " {bandwidthDownBits}",
     "format-disconnected": "󰤮 No Network",
-    "tooltip": true,
+    "tooltip": false,
     "on-click": "nm-connection-editor"
   },
   "pulseaudio": {
