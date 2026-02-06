@@ -1,1 +1,24 @@
 # Berserk-EVA-01
+
+- Dependencies:
+ - Waybar [
+gtkmm3
+jsoncpp
+libsigc++
+fmt
+wayland
+chrono-date
+spdlog
+libgtk-3-dev [gtk-layer-shell]
+gobject-introspection [gtk-layer-shell]
+libgirepository1.0-dev [gtk-layer-shell]
+libpulse [Pulseaudio module]
+libnl [Network module]
+libappindicator-gtk3 [Tray module]
+libdbusmenu-gtk3 [Tray module]
+libmpdclient [MPD module]
+libsndio [sndio module]
+libevdev [KeyboardState module]
+xkbregistry
+upower [UPower battery module]
+ ]
